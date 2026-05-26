@@ -91,7 +91,7 @@ else:
  
 # Output : 
 
-X	P(X=x)	Obs.Freq	Exp.Freq	Chi^2
+X	P(X=x)	Obs.Freq	Exp.Freq	Chi^2 
 --------------------------------------------------
 0	0.0213	       1	     0.43	   0.78
 1	0.0819	       2	     1.64	   0.08
