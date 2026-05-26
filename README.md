@@ -90,7 +90,7 @@ else:
 ```
  
 # Output : 
-
+```
 X	P(X=x)	Obs.Freq	Exp.Freq	Chi^2 
 --------------------------------------------------
 0	0.0213	       1	     0.43	   0.78
@@ -105,8 +105,7 @@ X	P(X=x)	Obs.Freq	Exp.Freq	Chi^2
 Calculated Chi-square value: 8.9913  
 Critical Chi-square value (1% LOS, df=7): 18.4753  
 The data *fits* the Poisson distribution at 1% level of significance.
-
-
+```
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
